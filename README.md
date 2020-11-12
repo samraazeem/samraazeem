@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Samra's github stats](https://github-readme-stats.vercel.app/api?username=samraazeem)](https://github.com/samraazeem/github-readme-stats&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samraazeem)](https://github.com/samraazeem/github-readme-stats&show_icons=true&theme=radical)
+[![Samra's github stats](https://github-readme-stats.vercel.app/api?username=samraazeem)](https://github.com/samraazeem/github-readme-stats&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samraazeem)](https://github.com/samraazeem/github-readme-stats&show_icons=true&theme=tokyonight)
 
 <div align="center"><a href="https://dev.to/samraazeem">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="samraazeem's DEV Profile" height="30" width="30">
