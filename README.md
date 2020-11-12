@@ -1,7 +1,9 @@
 ### Hi there 👋
 [![Samra's github stats](https://github-readme-stats.vercel.app/api?username=samraazeem)](https://github.com/samraazeem/github-readme-stats)
-
-<img src="https://dev.to/samraazeem" width="48">
+<a href="https://dev.to/samraazeem">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="samraazeem's DEV Profile" height="30" width="30">
+</a>
+<!-- <img src="https://dev.to/samraazeem" width="48"> -->
 <!--
 **samraazeem/samraazeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
