@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Samra's github stats](https://github-readme-stats.vercel.app/api?username=samraazeem)](https://github.com/samraazeem/github-readme-stats)
 [![samraazeem's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/samraazeem)
 <!--
 **samraazeem/samraazeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
