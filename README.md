@@ -2,6 +2,9 @@
 [![Samra's github stats](https://github-readme-stats.vercel.app/api?username=samraazeem&show_icons=true&theme=tokyonight)](https://github.com/samraazeem/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samraazeem&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/samraazeem/github-readme-stats)
 
+## Profile View Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=samraazeem)
+
 <div align="center"><a href="https://dev.to/samraazeem">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="samraazeem's DEV Profile" height="30" width="30">
 </a></div>
