@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samraazeem&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/samraazeem/github-readme-stats)
 
 ## Profile View Counter
-#![Profile View Counter](https://komarev.com/ghpvc/?username=samraazeem)
+[![Profile View Counter](https://komarev.com/ghpvc/?username=samraazeem)
 
 <div align="center"><a href="https://dev.to/samraazeem">
   <img src="https://i2.wp.com/2ninjas1blog.com/wp-content/uploads/2016/09/logo_large-3e11db19-1.png" height="30" width="30">
